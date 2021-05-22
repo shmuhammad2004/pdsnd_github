@@ -4,14 +4,21 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+
+Bike Share Data Analysis using R
 
 ### Description
-Describe what your project is about and what it does
+
+
+We basically explore the three datasets about bike sharing from different cities and do some explanatory analysis and vizualization by asking some questions such as what is the most hightest day for bike. 
+
 
 ### Files used
-Include the files used
+
+We use three files all are csv files from each states.
+
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+My primary point of contact in the data analysis is [Tidyverse website](https://www.tidyverse.org) and [R4DS communty](https://www.rfordatasci.com).
