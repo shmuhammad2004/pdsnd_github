@@ -1,4 +1,4 @@
 .github/**
 .Rpserroj.u
-.csv
+*.csv
 .Rproj.user
