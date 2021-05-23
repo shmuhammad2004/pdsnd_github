@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 
 ### Project Title
 
-Bike Share Data Analysis using R
+Bike Share Data Analysis 
 
 ### Description
 
@@ -21,4 +21,4 @@ We use three files all are csv files from each states.
 
 ### Credits
 
-My primary point of contact in the data analysis is [Tidyverse website](https://www.tidyverse.org) and [R4DS communty](https://www.rfordatasci.com).
+My primary point of contact in the data analysis is Stackoverflow
